@@ -1,7 +1,7 @@
 ```markdown
 # Hello, World!
 
-👋 Hi, I'm [Your Name]! Welcome to my GitHub profile.
+👋 Hi, I'm Alessia! Welcome to my GitHub profile.
 
 ```plaintext
 Hello, World!
